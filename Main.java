@@ -11,7 +11,7 @@ System. out .println( "Enter first number:Dulanjaya" );
 a = scanner.nextInt();
 System. out .println( "Enter second number:Chathura" );
 b = scanner.nextInt();
-System. out .println( "Enter operation:" );
+System. out .println( "Enter test operation:" );
 operation = scanner.next();
 if ( "+" .equals(operation)) {
 answer = add (a, b);
